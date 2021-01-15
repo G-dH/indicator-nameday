@@ -1,0 +1,23 @@
+indicator-nameday (0.4.2-0ubuntu1~xenial) xenial; urgency=low
+
+  * cs.names db corrected
+
+ -- George dH (launchpad PGP key) <georgdh@gmail.com>  Sun, 05 Jul 2015 12:11:52 +0200
+
+indicator-nameday (0.4.1-0ubuntu1~xenial) xenial; urgency=low
+
+  * desktop launcher fix
+
+ -- George dH (launchpad PGP key) <georgdh@gmail.com>  Wed, 14 May 2014 20:06:59 +0200
+
+indicator-nameday (0.4.0-1ubuntu2~xenial) xenial; urgency=low
+
+  * Precise fix - yelp-tools dependency, desktop launcher localization
+
+ -- George dH (launchpad PGP key) <georgdh@gmail.com>  Tue, 22 Apr 2014 21:03:56 +0200
+
+indicator-nameday (0.3.8-1) xenial; urgency=low
+
+  * Initial release (separate sourcefiles, localization, automake)
+
+ -- George dH (launchpad PGP key) <georgdh@gmail.com>  Sun, 20 Apr 2014 15:03:57 +0200

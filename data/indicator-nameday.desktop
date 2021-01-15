@@ -1,0 +1,14 @@
+[Desktop Entry]
+Icon=indicator-nameday
+Name=Indicator NameDay
+Name[cs]=Svátkový indikátor
+Name[sk]=Sviatkový indikátor
+Comment=Nameday notifier indicator for Unity
+Comment[cs]=Zobrazuje jmeniny a svátky v panelu Unity
+Comment[sk]=Zobrazuje meniny a sviatky v panelu Unity
+Keywords=nameday;svátek;sviatok
+Exec=indicator-nameday
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;Utility;Unity
+StartupNotify=true

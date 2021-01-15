@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Indicator-NameDay 0.3.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-09 21:13+0100\n"
+"PO-Revision-Date: 2014-04-13 15:19+0100\n"
+"Last-Translator: GdH <georgdh@gmail.com>\n"
+"Language-Team: GdH <georgdh@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: indicator-nameday.vala:202
+msgid "About"
+msgstr "O aplikaci"
+
+#: indicator-nameday.vala:194
+msgid "Autostart"
+msgstr "Spouštět automaticky"
+
+#: indicator-nameday.vala:435
+msgid "Easter Monday"
+msgstr "Velikonoční pondělí"
+
+#: indicator-nameday.vala:356
+msgid "Enter Name"
+msgstr "Zadejte jméno"
+
+#: indicator-nameday.vala:340
+msgid "Name Days - Search"
+msgstr "Svátky - Vyhledávání"
+
+#: indicator-nameday.vala:570
+msgid "Name days and public holidays panel indicator"
+msgstr "Svátkový indikátor do panelu"
+
+#: indicator-nameday.vala:188
+msgid "Names Pack"
+msgstr "Sada jmen"
+
+#: indicator-nameday.vala:143
+msgid "Names for next days"
+msgstr "Svátky na další dny"
+
+#: indicator-nameday.vala:419
+msgid "Not found"
+msgstr "Nenalezeno"
+
+#: indicator-nameday.vala:172
+msgid "Public Holidays"
+msgstr "Dny pracovního klidu"
+
+#: indicator-nameday.vala:213
+msgid "Quit"
+msgstr "Ukončit"
+
+#: indicator-nameday.vala:167
+msgid "Search"
+msgstr "Hledat"

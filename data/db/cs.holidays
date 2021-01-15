@@ -1,0 +1,20 @@
+# ":" at the end of the line for group title
+# "@" will be replaced by next Ester Monday date
+#
+Státní svátky :
+01.01.   Den obnovy samostatného českého státu
+08.05.   Den vítězství
+05.07.   Den slovanských věrozvěstů Cyrila a Metoděje
+06.07.   Den upálení mistra Jana Husa
+28.09.   Den české státnosti
+28.10.   Den vzniku samostatného československého státu
+17.11.   Den boje za svobodu a demokracii
+
+Ostatní svátky :
+01.01.   Nový rok
+@!   Velký pátek
+@@   Velikonoční pondělí
+01.05.   Svátek práce
+24.12.   Štědrý den
+25.12.   1. svátek vánoční
+26.12.   2. svátek vánoční

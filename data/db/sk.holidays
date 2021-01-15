@@ -1,0 +1,20 @@
+# ":" at the end of the line for group title
+# "@" replace by next Ester Monday date
+#
+Štátne sviatky :
+01.01.   Deň vzniku Slovenskej republiky
+05.07.   Sviatok svätého Cyrila a Metoda
+29.08.   Výročie SNP
+01.09.   Deň Ústavy Slovenskej republiky
+17.11.   Deň boja za slobodu a demokraciu
+
+Ostatné sviatky :
+06.01.   Zjavenie Pána (Traja králi)
+@   Veľkonočný pondelok
+01.05.   Sviatok práce
+08.05.   Deň víťazstva nad fašizmom
+15.09.   Sedembolestná Panna Mária
+01.11.   Sviatok všetkých svätých
+24.12.   Štedrý deň
+25.12.   Prvý sviatok vianočný
+26.12.   Druhý sviatok vianočný
