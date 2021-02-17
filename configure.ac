@@ -1,7 +1,7 @@
 # configure.ac
 
 AC_PREREQ([2.63])
-AC_INIT([indicator-nameday],[0.4.3])
+AC_INIT([indicator-nameday],[0.4.5])
 AC_CONFIG_SRCDIR([src/indicator-nameday.vala])
 AC_CONFIG_HEADERS([config.h])
 # AC_CONFIG_AUX_DIR(config)
@@ -14,7 +14,7 @@ m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])])
 AM_MAINTAINER_MODE
 
 #AC_PROG_MAKE_SET
-AM_PROG_VALAC([0.20.0])
+AM_PROG_VALAC([0.30.0])
 AM_PROG_CC_C_O
 AC_PROG_INSTALL
 
@@ -31,7 +31,7 @@ AC_SUBST(indicator_nameday_CFLAGS)
 AC_SUBST(indicator_nameday_LIBS)
 AC_SUBST(VALA_PACKAGES)
 
-IT_PROG_INTLTOOL(0.40)
+IT_PROG_INTLTOOL(0.51)
 AC_SUBST(GETTEXT_PACKAGE, indicator-nameday)
 #GETTEXT_PACKAGE=indicator-nameday
 #AC_DEFINE_UNQUOTED([GETTEXT_PACKAGE], ["$GETTEXT_PACKAGE"], [Gettext Package])
