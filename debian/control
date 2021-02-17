@@ -9,7 +9,7 @@ Homepage: <http://gdhnotes.blogspot.com>
 Package: indicator-nameday
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Name Day Indicator for Unity Panel
+Description: Name Day Indicator for Ubuntu panel 
  Shows an actual name in the panel and names for next days in indicator's menu.
  Supports multiple names lists, search and list public holidays.
  It also calculates Easter Mondays and Big Fridays.

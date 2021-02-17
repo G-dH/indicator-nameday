@@ -82,7 +82,8 @@ public class IndicatorNameday : GLib.Object {
         data = new Data(loc);
         indicator = new Indicator(APPNAME, "indicator-nameday-status",
             IndicatorCategory.APPLICATION_STATUS);
-            indicator.set_status(IndicatorStatus.ACTIVE);
+        indicator.set_status(IndicatorStatus.ACTIVE);
+
         // signály se oproti PyGObject/PyGTK napojují přes vlastní objekty:
         indicator.scroll_event.connect ((source, x ,direction)
                                 => {on_scroll_event(direction);});
@@ -569,6 +570,7 @@ public class Easter {
 public class About : AboutDialog {
     // Okno "O aplikaci"
     public About() {
+        this.set_logo_icon_name("indicator-nameday");
         this.set_program_name(APPNAME);
         this.set_version(VERSION);
         this.set_copyright("© 2011 - 2020 GdH");
@@ -618,7 +620,7 @@ public class Data : GLib.Object {
         try {
             var filename = "%s/db/%s.names".printf(DATADIR, loc);
             if ( ! GLib.FileUtils.test(filename, GLib.FileTest.EXISTS)){
-                stderr.printf("Error: File %s doesn't exist!\n",filename);
+                stderr.printf("Error: File %s not found!\n",filename);
                 return null;
             }
 
