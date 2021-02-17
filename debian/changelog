@@ -1,28 +1,40 @@
-indicator-nameday (0.4.3-0ubuntu1~focal) focal; urgency=low
+indicator-nameday (0.4.5-0ubuntu1~xenial) xenial; urgency=low
+
+  * fix source tar
+
+ -- George dH (launchpad PGP key) <georgdh@gmail.com>  Sat, 13 Feb 2021 21:24:39 +0100
+
+indicator-nameday (0.4.4-0ubuntu1~xenial) xenial; urgency=low
+
+  * big friday
+
+ -- George dH (launchpad PGP key) <georgdh@gmail.com>  Sat, 13 Feb 2021 09:21:04 +0100
+
+indicator-nameday (0.4.3-0ubuntu1~xenial) xenial; urgency=low
 
   * big friday calculation
 
  -- George dH (launchpad PGP key) <georgdh@gmail.com>  Fri, 12 Feb 2021 17:51:11 +0100
 
-indicator-nameday (0.4.2-0ubuntu1~focal) focal; urgency=low
+indicator-nameday (0.4.2-0ubuntu1~xenial) xenial; urgency=low
 
   * cs.names db corrected
 
  -- George dH (launchpad PGP key) <georgdh@gmail.com>  Sun, 05 Jul 2015 12:11:52 +0200
 
-indicator-nameday (0.4.1-0ubuntu1~focal) focal; urgency=low
+indicator-nameday (0.4.1-0ubuntu1~xenial) xenial; urgency=low
 
   * desktop launcher fix
 
  -- George dH (launchpad PGP key) <georgdh@gmail.com>  Wed, 14 May 2014 20:06:59 +0200
 
-indicator-nameday (0.4.0-1ubuntu2~focal) focal; urgency=low
+indicator-nameday (0.4.0-1ubuntu2~xenial) xenial; urgency=low
 
   * Precise fix - yelp-tools dependency, desktop launcher localization
 
  -- George dH (launchpad PGP key) <georgdh@gmail.com>  Tue, 22 Apr 2014 21:03:56 +0200
 
-indicator-nameday (0.3.8-1) focal; urgency=low
+indicator-nameday (0.3.8-1) xenial; urgency=low
 
   * Initial release (separate sourcefiles, localization, automake)
 

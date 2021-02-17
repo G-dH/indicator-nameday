@@ -3,7 +3,7 @@ Section: utils
 Priority: extra
 Maintainer: GdH <georgdh@gmail.com>
 Build-Depends: debhelper (>= 8.0.0), autotools-dev, gnome-common, itstool, yelp-tools, valac, libappindicator3-dev, libgtk-3-dev
-Standards-Version: 4.0.3
+Standards-Version: 4.0.1
 Homepage: <http://gdhnotes.blogspot.com>
 
 Package: indicator-nameday
